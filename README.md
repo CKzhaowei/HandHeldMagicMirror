@@ -1,0 +1,2 @@
+# HandHeldMagicMirror
+本项目的框架是由mvvm+retrofit+rxjava等搭建而成，集成jetpack主流第三方库。搭配mvvmtemplate模板使用。
